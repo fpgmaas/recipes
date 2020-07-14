@@ -1,11 +1,16 @@
 # Savory Spinach & Tomato Strifry
 
+- Prep Time: 5 minutes
+- Cook Time: 25 minutes
+- Total Time: 30 minutes
+- Servings: 2-3 servings
+
 ## Ingredients
 
 - Stirfry
     - 1 clove of garlic
     - 1 onion
-    - 300g Tempeh
+    - 200-300g Tempeh
     - 2 Roma tomatoes
     - 100g Baby corn
     - 400g Spinach
