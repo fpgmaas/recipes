@@ -16,7 +16,7 @@
     - 1 table spoon rice vinegar
     - 1 table spoon brown sugar
     - ½ cup stock(broth)/water
-    - 1½ cornstarch (or maize, maizena)
+    - 1½ table spoon cornstarch (or maize, maizena)
 - Side dish
     - 1 cup of rice
     
@@ -31,4 +31,5 @@
     - Cook until all ingredients are tender.
     - Add lemon juice and salt to taste.
     
+    [Source](https://1m8t7f33dnra3sfk6v2rjurs-wpengine.netdna-ssl.com/wp-content/uploads/2015/02/StirFry_Vertical_Draft5-01-670x8000.jpg)
     
