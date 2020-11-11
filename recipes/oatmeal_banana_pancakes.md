@@ -1,31 +1,32 @@
 # Oatmeal Banana Pancakes
 
-- Prep Time: 5 minutes
-- Cook Time: 20 minutes
-- Total Time: 25 minutes hour
-- Servings: 4-6 pieces
+- prep time: 5 minutes
+- cook time: 20 minutes
+- total time: 25 minutes hour
+- servings: 4-6 pieces
 
 <img src="../images/oatmeal_banana_pancakes.jpg" alt="drawing" width="200"/>
 
 
 ## Ingredients
 
-- Pancakes
+- pancakes
     - ½ cup almond milk unsweetened
-    - 2 Eggs
-    - 1 Egg White
-    - 1 Banana
-    - 2 Tablespoons sugar
-    - 1½ cups Rolled Oats
-    - 2 teaspoons Baking Powder
+    - 2 eggs
+    - 1 egg White
+    - 1 banana
+    - 2 tablespoons sugar
+    - 1½ cups rolled oats
+    - 2 teaspoons self-rising flour
     - ¼ - ½ teaspoon Salt
     - 1 Banana
-- Optional toppings:
-    - Fresh Berries
-    - Real Maple Syrup
-    - Chocolate Chips
-    - Fresh Banana Slices
-    - Sliced Almonds
+    
+- optional toppings:
+    - fresh berries
+    - real maple syrup
+    - chocolate chips
+    - fresh banana slices
+    - sliced almonds
 
 
 ## Instructions

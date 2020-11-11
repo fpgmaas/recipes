@@ -1,10 +1,10 @@
 # Oatmeal Bars
 
-- Prep Time: 5 minutes
-- Cook Time: 35 minutes
-- Set Time: 20 minutes
-- Total Time: 1 hour
-- Servings: 12-16 pieces
+- prep time: 5 minutes
+- cook time: 35 minutes
+- set time: 20 minutes
+- total time: 1 hour
+- servings: 12-16 pieces
 
 <img src="../images/oatmeal_bars.jpg" alt="drawing" width="200"/>
 
